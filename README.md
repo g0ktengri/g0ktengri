@@ -1,7 +1,7 @@
 # g0ktengri
 
 ### Professional Summary
-I am a 3rd-year Digital Game Design student dedicated to mastering the technical foundations of software development. My current focus lies in bridging the gap between game technologies and complex system architectures. I am actively working on improving my C++ proficiency and expanding my knowledge in high-performance computing.
+I am a 4rd-year Digital Game Design student dedicated to mastering the technical foundations of software development. My current focus lies in bridging the gap between game technologies and complex system architectures. I am actively working on improving my C++ proficiency and expanding my knowledge in high-performance computing.
 
 - Currently specializing in C++ development.
 - Deepening my expertise in Unreal Engine and Unity environments.
